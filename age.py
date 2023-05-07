@@ -13,3 +13,5 @@ elif driving == '沒有':
 	else:
 		print("沒關係，再過幾年你就可去考了，忍著點")
 
+else:
+	print("只能輸入有跟沒有啦!")
